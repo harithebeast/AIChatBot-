@@ -2,7 +2,10 @@
 
 This application allows users to ask natural language questions about their business data and get AI-generated insights, visualizations, and SQL queries.
 ## 📽️ Demo Video
-./dem.mp4
+
+
+> ▶️ [Click here to watch the demo video](./dem.mp4)
+
 
 ## Features
 
