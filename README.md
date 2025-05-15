@@ -1,6 +1,9 @@
 # AI-Powered Data Analysis Application
 
 This application allows users to ask natural language questions about their business data and get AI-generated insights, visualizations, and SQL queries.
+## 📽️ Demo Video
+
+> ▶️ [Click here to watch the demo video](./demo.mp4)
 
 ## Features
 
